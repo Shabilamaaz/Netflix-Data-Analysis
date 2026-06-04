@@ -4,7 +4,9 @@
 
 This project focuses on analyzing Netflix's content dataset using Python. The goal was to explore the data, identify content trends, and gain meaningful insights through data cleaning, analysis, and visualization.
 
-By working on this project, I improved my understanding of Exploratory Data Analysis (EDA), data visualization, and extracting business insights from real-world datasets.
+The analysis was performed on Netflix's publicly available dataset containing over 8,800 titles.
+
+The project demonstrates the application of Exploratory Data Analysis (EDA), data cleaning, and data visualization techniques to derive meaningful insights from real-world data.
 
 ---
 
@@ -108,7 +110,7 @@ Netflix's content library expanded rapidly after 2010, with the highest growth o
 ![Top Directors](Netflix-Project/output/top_directors.png)
 
 **Observation:**  
-Many records contain missing director information. Among the available data, a small number of directors have contributed multiple titles to Netflix.
+A large portion of records have missing director information. Excluding missing values, several directors have contributed multiple titles to Netflix.
 
 ---
 
@@ -128,7 +130,7 @@ TV-MA is the most common rating on Netflix, indicating a large amount of mature-
 **Observation:**  
 Netflix significantly increased content additions after 2016. Content additions reached their peak around 2019 before slightly declining in later years.
 
-```
+---
 
 ## Key Insights
 
@@ -182,10 +184,11 @@ pip install pandas numpy matplotlib seaborn
 
 ## Conclusion
 
-This project helped me understand how data analysis can be used to uncover trends and patterns from large datasets. Through visualization and exploration, I was able to gain insights into Netflix's content distribution, growth, ratings, and global presence.
+This project shows how data analysis can be used to find useful insights from real-world data.
 
-The project also strengthened my practical skills in Python, Pandas, data cleaning, and data visualization.
+By analyzing Netflix's dataset, I explored content trends, ratings, country-wise content distribution, and growth over time. The analysis helped identify important patterns and understand how Netflix has expanded its content library over the years.
 
+This project also improved my practical skills in Python, Pandas, data cleaning, data visualization, and Exploratory Data Analysis (EDA).
 ---
 
 ## About Me
@@ -194,11 +197,6 @@ The project also strengthened my practical skills in Python, Pandas, data cleani
 
 B.Tech (Computer Science Engineering)
 
-Aspiring Data Analyst with skills in:
-
-* Excel
-* SQL
-* Python
-* Power BI
+Aspiring Data Analyst skilled in Excel, SQL, Python, Power BI, and Data Visualization.
 
 This project is part of my Data Analytics portfolio.
