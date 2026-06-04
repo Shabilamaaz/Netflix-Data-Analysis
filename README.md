@@ -1,4 +1,4 @@
-# Netflix Data Analysis
+# Netflix Data Analysis using Python
 
 ## Project Overview
 
@@ -198,5 +198,7 @@ This project also improved my practical skills in Python, Pandas, data cleaning,
 B.Tech (Computer Science Engineering)
 
 Aspiring Data Analyst skilled in Excel, SQL, Python, Power BI, and Data Visualization.
+
+GitHub: https://github.com/Shabilamaaz
 
 This project is part of my Data Analytics portfolio.
